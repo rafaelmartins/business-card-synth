@@ -1,0 +1,458 @@
+(footprint "Jack_3.5mm_SS_SJ-43617-SMT_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TRS 3.5mm, horizontal, through-hole, with tip switch, https://www.cuidevices.com/product/resource/sj1-351xn.pdf")
+	(tags "TRS audio jack stereo horizontal")
+	(property "Reference" "REF**"
+		(at 13.7 4.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e45fe090-bc92-4bd8-84a2-e503098da63b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Jack_3.5mm_SS_SJ-43617-SMT_Horizontal"
+		(at 7.25 7.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d67f868d-53f9-4bb4-bd2c-92ef211808ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f465f14-6f77-4716-b136-d3719b379d13")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "462146be-9fcf-453f-a571-deb32b848f44")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -3.15)
+		(end 7.5 -3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "602ed3b5-64d7-43e3-bd46-ae38b54c5e28")
+	)
+	(fp_line
+		(start 7.5 -3.15)
+		(end 7.5 -3.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "278ab61f-034e-4594-b7d0-ca96cf8b884e")
+	)
+	(fp_line
+		(start 7.5 3.15)
+		(end 0 3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d9b1ab22-ebe3-43d0-a3d3-ea4e3814fb5d")
+	)
+	(fp_line
+		(start 7.5 3.6)
+		(end 7.5 3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8e2e8d04-89e1-4363-9d51-723d56029679")
+	)
+	(fp_line
+		(start 8.7 -3.6)
+		(end 8.7 -3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ec2ff856-6a64-493d-b4a9-e71c21a01ae7")
+	)
+	(fp_line
+		(start 8.7 -3.15)
+		(end 12.6 -3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2778cc3a-2b8c-4004-9ec0-a1c54f747ee2")
+	)
+	(fp_line
+		(start 8.7 3.15)
+		(end 8.7 3.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3e930800-4530-46ac-a2a2-0b2b3bf47559")
+	)
+	(fp_line
+		(start 12.6 -2.15)
+		(end 12.6 2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "282d5bc5-c9e6-49b5-9d0b-09432f64cd11")
+	)
+	(fp_line
+		(start 12.6 3.15)
+		(end 8.7 3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5a60b813-e280-4e45-be6a-050355f1278b")
+	)
+	(fp_arc
+		(start 7.5 -3.6)
+		(mid 8.1 -4.2)
+		(end 8.7 -3.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f20396c9-965b-4144-bcd9-e0b2a974191f")
+	)
+	(fp_arc
+		(start 8.7 3.6)
+		(mid 8.1 4.2)
+		(end 7.5 3.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7133c04c-9a90-4396-b9d1-412504a62797")
+	)
+	(fp_arc
+		(start 12.6 -3.15)
+		(mid 13.1 -2.65)
+		(end 12.6 -2.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1e9af1bb-a56f-4726-8850-654c7c348bc5")
+	)
+	(fp_arc
+		(start 12.6 2.15)
+		(mid 13.1 2.65)
+		(end 12.6 3.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4a4ec3b1-b16b-4f0b-9f37-bfdda8ee34b5")
+	)
+	(fp_rect
+		(start -1.968 -4.853)
+		(end 13.23 4.853)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a0943e33-5217-4cb2-9cb6-2c232f98dc8e")
+	)
+	(fp_line
+		(start -1.89 -2.5)
+		(end -1.89 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "950338be-337e-4ed3-aaea-a16bdc430e1b")
+	)
+	(fp_line
+		(start 0 -3.15)
+		(end 0 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ca807195-fe6a-449b-a4fe-e7fd3da13453")
+	)
+	(fp_line
+		(start 0 -3.15)
+		(end 7.5 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d0b4abce-1468-4f21-9930-f99caf998f5c")
+	)
+	(fp_line
+		(start 0 -2.5)
+		(end -1.89 -2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "635c5bb6-5aed-45ac-bf0b-5f217b4e4396")
+	)
+	(fp_line
+		(start 0 2.5)
+		(end -1.89 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a5b6c8b4-40d2-45e8-a200-5cecfba29b0d")
+	)
+	(fp_line
+		(start 0 3.15)
+		(end 0 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2564daff-866d-4158-82a6-4ab8fc331f70")
+	)
+	(fp_line
+		(start 0 3.15)
+		(end 7.5 3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1c0b2ee3-ef6a-4461-a787-bbb787545e74")
+	)
+	(fp_line
+		(start 7.5 -3.6)
+		(end 7.5 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "d2ee16d9-06cf-4835-896c-cacdbb61179c")
+	)
+	(fp_line
+		(start 7.5 3.6)
+		(end 7.5 3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "a9dffb1a-802b-4de4-999e-c631e5ca0294")
+	)
+	(fp_line
+		(start 8.7 -3.6)
+		(end 8.7 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e8e0d298-6677-4555-8899-d6887a04cdaf")
+	)
+	(fp_line
+		(start 8.7 -3.15)
+		(end 12.6 -3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6da63684-353b-40bf-83f4-bfaea8114fdf")
+	)
+	(fp_line
+		(start 8.7 3.15)
+		(end 12.6 3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2b85fd91-da63-4e49-9764-2052fe756724")
+	)
+	(fp_line
+		(start 8.7 3.6)
+		(end 8.7 3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6de59ac9-35b3-4ce0-9d7b-e0894252730e")
+	)
+	(fp_line
+		(start 12.6 -2.15)
+		(end 12.6 2.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15bc6c88-f87a-4ad8-994b-236705dd1bbf")
+	)
+	(fp_arc
+		(start 7.5 -3.6)
+		(mid 8.1 -4.2)
+		(end 8.7 -3.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b824c8bd-3331-453b-85dd-b8b8559f1ff0")
+	)
+	(fp_arc
+		(start 8.7 3.6)
+		(mid 8.1 4.2)
+		(end 7.5 3.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3a7b9ac5-c524-4c72-a68d-0858de559af3")
+	)
+	(fp_arc
+		(start 12.6 -3.15)
+		(mid 13.1 -2.65)
+		(end 12.6 -2.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7ec5fb59-40e6-457a-9877-ecde7f41d370")
+	)
+	(fp_arc
+		(start 12.6 2.15)
+		(mid 13.1 2.65)
+		(end 12.6 3.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0a0bbc8a-72fb-4956-a2b6-f48368dad565")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 5.98 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f36d557b-f4f0-40bb-affa-1654c552b6a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "R1" connect rect
+		(at 6 3.975)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "c6b41416-3661-4cbb-9522-3e878e1322a3")
+	)
+	(pad "R1N" connect rect
+		(at 6 -3.975)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "82df2156-585f-4c7d-8ed6-32a4ffdc6cea")
+	)
+	(pad "R2" connect rect
+		(at 3.025 4)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "e2804bea-4d07-42ab-bc03-d1366aea66b9")
+	)
+	(pad "R2N" connect rect
+		(at 3.15 -3.975)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "209704fb-4dc1-4209-8553-3a96f61acd86")
+	)
+	(pad "S" connect rect
+		(at 0.825 -3.975)
+		(size 1.65 1.65)
+		(layers "F.Cu" "F.Mask")
+		(uuid "e3b40f5b-addb-4f28-9bd7-b9a614392398")
+	)
+	(pad "T" connect rect
+		(at 10.2 3.975)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "46d220a1-3d3f-4dd6-a89b-ca225a428265")
+	)
+	(pad "TN" connect rect
+		(at 10.2 -3.975)
+		(size 1.8 1.65)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "27fab773-2ed8-4bc9-afa1-cc5e82916f33")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3d-models/Jack_3.5mm_SS_SJ-43617-SMT_Horizontal.stp"
+		(offset
+			(xyz 0 0 1.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -90)
+		)
+	)
+)
