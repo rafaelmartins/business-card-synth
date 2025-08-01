@@ -8439,7 +8439,7 @@
 			(net 3 "GND")
 			(pinfunction "Shield")
 			(pintype "passive")
-			(uuid "d2c3bbee-3a6d-44c8-af0c-6be8c638701d")
+			(uuid "b9379fa8-1d63-4ab5-9076-e40985f6cf20")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/lib/3d-models/USB_A_Molex_48037-2200_Horizontal.stp"
