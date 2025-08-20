@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "business-card-synth")(type "KiCad")(uri "${KIPRJMOD}/lib/business-card-synth.pretty")(options "")(descr ""))
+)

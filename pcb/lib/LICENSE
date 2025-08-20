@@ -1,0 +1,34 @@
+business-card-synth.kicad_sym:
+business-card-synth.pretty/Connector_Samtec_FTSH-105-01-L-DV-K.kicad_mod:
+business-card-synth.pretty/Crystal_SMD_2016-4Pin_2.0x1.6mm.kicad_mod:
+business-card-synth.pretty/Jack_3.5mm_SameSky_SJ1-3515-SMT_Horizontal.kicad_mod:
+business-card-synth.pretty/Potentiometer_Bourns_3306F_Horizontal.kicad_mod:
+business-card-synth.pretty/SW_SPDT_Wurth_450406020024.kicad_mod:
+business-card-synth.pretty/SW_SPST_FSMSM.kicad_mod:
+business-card-synth.pretty/Speaker_SameSky_CMS-151504-SMT-TR.kicad_mod:
+business-card-synth.pretty/USB_A_Molex_48037-2200_Horizontal.kicad_mod:
+business-card-synth.pretty/qrcode.kicad_mod:
+
+    KiCad Libraries License (https://www.kicad.org/libraries/license/)
+
+
+3d-models/BatteryHolder_Keystone_2460_1xAA.stp:
+3d-models/Connector_Samtec_FTSH-105-01-L-DV-K.stp:
+3d-models/Crystal_SMD_2016-4Pin_2.0x1.6mm.stp:
+3d-models/Jack_3.5mm_SameSky_SJ1-3515-SMT_Horizontal.*:
+3d-models/Potentiometer_Bourns_3306F_Horizontal.stp:
+3d-models/SW_SPDT_Wurth_450406020024.stp:
+3d-models/SW_SPST_FSMSM.*:
+3d-models/Speaker_SameSky_CMS-151504-SMT-TR.*:
+3d-models/USB_A_Molex_48037-2200_Horizontal.stp:
+
+    (c) SnapEDA
+
+    Creative Commons Attribution-ShareAlike 4.0 International License
+    (CC BY-SA), with Design Exception 1.0:
+
+    > You have permission to propagate a work of a design, design file(s)
+    > and/or manufactured board(s) formed by combining CAD symbols,
+    > footprints, and 3D models provided by SnapEDA, even if such propagation
+    > would otherwise violate the terms of CC BY-SA. You may then convey such
+    > a combination under terms of your choice.

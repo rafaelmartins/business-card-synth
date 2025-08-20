@@ -1,0 +1,377 @@
+(footprint "Speaker_SameSky_CMS-151504-SMT-TR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Speaker, 500mW, https://www.sameskydevices.com/product/resource/cms-151504-smt-tr.pdf")
+	(tags "speaker SameSky")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "fcefc300-dfc5-441f-afa9-aa8771754f91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Speaker_SameSky_CMS-151504-SMT-TR"
+		(at 0 8.73 0)
+		(layer "F.Fab")
+		(uuid "6fedfa74-0b46-4fe0-a2cb-51f3edcce696")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.sameskydevices.com/product/resource/cms-151504-smt-tr.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27bf5ffe-fdd9-4d30-be58-d2b2e6b4b739")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0097b4b1-301b-4683-b5ab-1f906f0adcf2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -8.05 3.06)
+		(end -8.05 6.96)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "42f51349-7d8f-4bb3-8a62-b66e21841efe")
+	)
+	(fp_line
+		(start -7.63 3.06)
+		(end -8.05 3.06)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2b638ac7-bfdb-4183-9d79-4a22e2a708e5")
+	)
+	(fp_line
+		(start -7.63 3.06)
+		(end -7.63 -3.18)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "590e9e49-ac91-4dc9-b2e4-36a6e4b22a72")
+	)
+	(fp_line
+		(start -7.07 6.96)
+		(end -8.05 6.96)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a54831c1-45ec-41fa-ae0f-9d64f81ebc24")
+	)
+	(fp_line
+		(start -7.07 6.96)
+		(end -7.07 7.61)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f2acea02-1341-4997-a6e9-7bd31d109d25")
+	)
+	(fp_line
+		(start -6.96 7.61)
+		(end 7.07 7.61)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "93e06963-06ac-4a2f-afca-e517ad836a47")
+	)
+	(fp_line
+		(start -6.845 -6.825)
+		(end -6.04 -7.63)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "729faf95-e8a5-42db-8e3e-33bd40923b71")
+	)
+	(fp_line
+		(start -6.04 -7.63)
+		(end 6.04 -7.63)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c66d1f8c-7fff-470d-89df-2de4e1f5ba59")
+	)
+	(fp_line
+		(start 6.04 -7.63)
+		(end 6.845 -6.825)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "023f90fa-1cf2-4ac5-b4ee-32403746bd63")
+	)
+	(fp_line
+		(start 7.07 6.84)
+		(end 7.07 7.61)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3b1b15cc-db5c-4276-b879-3b37bffa1b86")
+	)
+	(fp_line
+		(start 7.62 3.16)
+		(end 7.62 -3.17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "61787c87-cd72-4295-bd77-17163d135ced")
+	)
+	(fp_line
+		(start -8.06 -7.72)
+		(end 7.98 -7.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e9974387-df3c-46c8-be21-a42caa749cd9")
+	)
+	(fp_line
+		(start -8.06 7.72)
+		(end -8.06 -7.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e66e25fa-1a6f-4df9-842f-1aa28657d8b1")
+	)
+	(fp_line
+		(start -8.06 7.72)
+		(end 7.98 7.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "eb28a09a-bee1-4769-bc6a-c636c93b54e7")
+	)
+	(fp_line
+		(start 7.98 7.72)
+		(end 7.98 -7.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "272756d8-d68e-435a-9efd-5d3ba0b7dc47")
+	)
+	(fp_line
+		(start -7.93 6.84)
+		(end -7.93 3.17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2d5cdb8d-3d01-4c0e-a5f4-8927887b3548")
+	)
+	(fp_line
+		(start -7.5 3.17)
+		(end -7.93 3.17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "54b78360-e91f-4302-a038-71f704817540")
+	)
+	(fp_line
+		(start -7.5 3.17)
+		(end -7.5 -3.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1967dbcc-b13e-4276-b287-630d894f1823")
+	)
+	(fp_line
+		(start -6.96 6.84)
+		(end -7.93 6.84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "842a60bc-4fe2-458b-9402-f5143512ccee")
+	)
+	(fp_line
+		(start -6.96 7.5)
+		(end -6.96 6.84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "426a1942-5afe-4da3-93f5-4f2698f8a180")
+	)
+	(fp_line
+		(start -6.96 7.5)
+		(end 6.96 7.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "98d34fa1-cb24-4d7d-921d-a22895fb530f")
+	)
+	(fp_line
+		(start -5.99 -7.51)
+		(end -6.69 -6.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2708d308-4b9e-43d1-9599-5eb7ffdea8ad")
+	)
+	(fp_line
+		(start -5.99 -7.51)
+		(end 5.99 -7.51)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "acbe2773-f424-4f66-961a-4339f2edea83")
+	)
+	(fp_line
+		(start 5.99 -7.51)
+		(end 6.69 -6.81)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "44ce9cd6-a400-4f19-ad85-8f11c41a724b")
+	)
+	(fp_line
+		(start 6.96 7.5)
+		(end 6.96 6.84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1a2605a6-bb1d-4e04-944e-7be8d7ec1fc8")
+	)
+	(fp_line
+		(start 7.51 -3.26)
+		(end 7.51 3.17)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "e8afde67-3c82-41a4-9329-7aa23c53bf70")
+	)
+	(fp_text user "+"
+		(at -9.44 5.44 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3c582495-c9f2-419b-a9d9-3ee28e1ac4e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "68db2edd-0c65-498b-851a-d41acd1f2cb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" smd rect
+		(at -6.85 -5 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7ecdc5b2-f47f-4c3b-ae0e-1b94a141ae9d")
+	)
+	(pad "" smd rect
+		(at 6.85 -5 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e72f399a-46d9-4ee2-83d7-d62e993333c5")
+	)
+	(pad "1" smd rect
+		(at -6.85 5 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "af473ec3-16c4-40e9-bbcb-522a1d2c7eab")
+	)
+	(pad "2" smd rect
+		(at 6.85 5 180)
+		(size 2 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1b4a19ef-ac55-4c1a-be41-ccd845e49554")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/3d-models/Speaker_SameSky_CMS-151504-SMT-TR.stp"
+		(offset
+			(xyz 0 0 3.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
