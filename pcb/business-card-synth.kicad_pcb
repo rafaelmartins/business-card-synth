@@ -17309,7 +17309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100n"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "3268c870-b9a0-40c2-bce5-0b68756c58ed")
@@ -17347,7 +17347,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser No." "603-CC805KKX7R6BB106"
+		(property "Mouser No." "603-CC805KRX7R9BB104"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17362,7 +17362,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/e6aee4f8-8122-4c2d-850a-7b281e4aa3ea")
+		(path "/78bae2d2-93bf-475a-aba9-1d178dac1b4c")
 		(sheetname "/")
 		(sheetfile "business-card-synth.kicad_sch")
 		(attr smd)
@@ -21193,7 +21193,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "10u"
 			(at 0 -1.68 90)
 			(layer "B.Fab")
 			(uuid "5163d236-f19c-4f89-92eb-3f242e1b6866")
@@ -21231,7 +21231,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Mouser No." "603-CC805KRX7R9BB104"
+		(property "Mouser No." "603-CC805KKX7R6BB106"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21246,7 +21246,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/78bae2d2-93bf-475a-aba9-1d178dac1b4c")
+		(path "/e6aee4f8-8122-4c2d-850a-7b281e4aa3ea")
 		(sheetname "/")
 		(sheetfile "business-card-synth.kicad_sch")
 		(attr smd)

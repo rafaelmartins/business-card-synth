@@ -17347,7 +17347,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 142.24 62.23 180)
+		(at 101.6 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17355,8 +17355,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78bae2d2-93bf-475a-aba9-1d178dac1b4c")
-		(property "Reference" "C7"
-			(at 144.78 60.9535 0)
+		(property "Reference" "C3"
+			(at 104.14 60.9535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17365,7 +17365,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 144.78 63.4935 0)
+			(at 104.14 63.4935 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17374,7 +17374,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 142.24 62.23 0)
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17383,7 +17383,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 62.23 0)
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17392,7 +17392,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 142.24 62.23 0)
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17401,7 +17401,7 @@
 			)
 		)
 		(property "Mouser No." "603-CC805KRX7R9BB104"
-			(at 142.24 62.23 0)
+			(at 101.6 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17418,7 +17418,7 @@
 		(instances
 			(project "business-card-synth"
 				(path "/ecb6e53c-6b1b-4bf5-a63a-cd7c5ac0c026"
-					(reference "C7")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -21560,7 +21560,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 101.6 62.23 180)
+		(at 142.24 62.23 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21568,8 +21568,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6aee4f8-8122-4c2d-850a-7b281e4aa3ea")
-		(property "Reference" "C3"
-			(at 104.14 60.9535 0)
+		(property "Reference" "C7"
+			(at 144.78 60.9535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21578,7 +21578,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 104.14 63.4935 0)
+			(at 144.78 63.4935 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21587,7 +21587,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 101.6 62.23 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21596,7 +21596,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 62.23 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21605,7 +21605,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 101.6 62.23 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21614,7 +21614,7 @@
 			)
 		)
 		(property "Mouser No." "603-CC805KKX7R6BB106"
-			(at 101.6 62.23 0)
+			(at 142.24 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21631,7 +21631,7 @@
 		(instances
 			(project "business-card-synth"
 				(path "/ecb6e53c-6b1b-4bf5-a63a-cd7c5ac0c026"
-					(reference "C3")
+					(reference "C7")
 					(unit 1)
 				)
 			)
