@@ -5,6 +5,14 @@
 #include <stm32g4xx.h>
 #include "battery.h"
 
+// Inputs
+//
+// PWR_STATUS - PA10
+//
+// Leds
+//
+// BAT_ON - PB10
+
 static volatile bool on_bat = false;
 
 void

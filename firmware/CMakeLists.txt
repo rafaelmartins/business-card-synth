@@ -18,6 +18,8 @@ project(business-card-synth C ASM)
 add_executable(business-card-synth
     main.c
 
+    audio.c
+    audio.h
     battery.c
     battery.h
     clock.c

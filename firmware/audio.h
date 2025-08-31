@@ -5,7 +5,7 @@
 
 #include <stdbool.h>
 
-void keyboard_init(void);
-bool keyboard_task(void);
+void audio_init(void);
+bool audio_task(void);
 
-void keyboard_note_callback(uint8_t note, bool on);
+void audio_callback(int16_t *buf, uint16_t buf_len);

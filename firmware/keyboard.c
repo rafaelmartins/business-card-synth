@@ -119,14 +119,6 @@ keyboard_init(void)
 }
 
 
-static void
-keyboard_note_cb(uint8_t note, bool on)
-{
-    (void) note;
-    (void) on;
-}
-
-
 bool
 keyboard_task(void)
 {
@@ -164,7 +156,7 @@ keyboard_task(void)
                 continue;
             }
 
-            keyboard_note_cb((octave + 1) * 12 + i, on);
+            keyboard_note_callback((octave + 1) * 12 + i, on);
         }
     }
 
