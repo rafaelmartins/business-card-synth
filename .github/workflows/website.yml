@@ -31,13 +31,14 @@ jobs:
 
       - uses: rafaelmartins/website/kicad@main
         with:
+          configuration: ./pcb/config.yml
           source: ./pcb
 
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./pcb/_build
+          path: _build
 
   deploy-website:
     runs-on: ubuntu-latest
