@@ -1,0 +1,20 @@
+---
+projects:
+  - file: business-card-synth.kicad_pro
+    pcb-render:
+      include-dnp: true
+      width: 4320
+      height: 4000
+      zoom: 0.95
+      scales:
+        - 480
+        - 720
+        - 1080
+      sides:
+        - top
+        - bottom
+    pcb-ibom:
+      enable: true
+    sch-export-pdf:
+      enable: true
+

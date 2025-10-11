@@ -47,3 +47,5 @@ fp-info-cache
 # FreeCAD
 *.FCStd[0-9]*
 *.FCBak
+
+_build
